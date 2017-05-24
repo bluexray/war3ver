@@ -127,7 +127,7 @@ namespace War3Ver
         {
             if (File.Exists(this.iniFilePath))
             {
-                this.listBox1.DataSource= IniHelper.GetKeys("war3",this.iniFilePath);
+                //this.listBox1.DataSource= IniHelper.GetKeys("war3",this.iniFilePath);
                 MessageBox.Show("读取文档成功");
             }
             else

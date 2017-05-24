@@ -5,3 +5,6 @@
 >* 2.运行War3Ver.exe.
 >* 3.点击需要更换的版本.
 
+## Download
+百度网盘:  [http://pan.baidu.com/s/1eRDeXu6](http://pan.baidu.com/s/1eRDeXu6)
+

@@ -30,7 +30,6 @@
         {
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.listBox1 = new System.Windows.Forms.ListBox();
             this.btnRun = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.btnAbout = new System.Windows.Forms.Button();
@@ -55,15 +54,6 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "版本转换器";
             this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
-            // 
-            // listBox1
-            // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 18;
-            this.listBox1.Location = new System.Drawing.Point(13, 365);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(120, 76);
-            this.listBox1.TabIndex = 3;
             // 
             // btnRun
             // 
@@ -101,7 +91,6 @@
             this.Controls.Add(this.btnAbout);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnRun);
-            this.Controls.Add(this.listBox1);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.pictureBox1);
             this.Name = "Form1";
@@ -117,7 +106,6 @@
 
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.ListBox listBox1;
         private System.Windows.Forms.Button btnRun;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnAbout;
