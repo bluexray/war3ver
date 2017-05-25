@@ -8,3 +8,9 @@
 ## Download
 百度网盘:  [http://pan.baidu.com/s/1eRDeXu6](http://pan.baidu.com/s/1eRDeXu6)
 
+## 更新计划
+* 增加40M补丁
+* 更换字体功能
+
+## 社群贡献
++ [联系我们](mailto:bluexray@qq.com)
