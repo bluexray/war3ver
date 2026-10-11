@@ -6,7 +6,8 @@
 >* 3.点击需要更换的版本.
 
 ## Download
-百度网盘:  [http://pan.baidu.com/s/1eRDeXu6](http://pan.baidu.com/s/1eRDeXu6)
+已修复 Win10/Win11 高分屏下按钮显示不全的问题
+https://github.com/Heworld22/war3ver/releases/tag/release
 
 ## 更新计划
 * 增加40M补丁
